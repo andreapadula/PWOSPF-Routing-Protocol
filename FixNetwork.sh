@@ -1,0 +1,9 @@
+./vnltopo111.sh vhost1 setlossy eth0 0
+./vnltopo111.sh vhost1 setlossy eth1 0
+./vnltopo111.sh vhost1 setlossy eth2 0
+./vnltopo111.sh vhost2 setlossy eth0 0
+./vnltopo111.sh vhost2 setlossy eth1 0
+./vnltopo111.sh vhost2 setlossy eth2 0
+./vnltopo111.sh vhost3 setlossy eth0 0
+./vnltopo111.sh vhost3 setlossy eth1 0
+./vnltopo111.sh vhost3 setlossy eth2 0
